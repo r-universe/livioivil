@@ -2,6 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ARIbrain"]
+	path = ARIbrain
+	url = https://github.com/cran/ARIbrain
+[submodule "acca"]
+	path = acca
+	url = https://github.com/cran/acca
+[submodule "flip"]
+	path = flip
+	url = https://github.com/cran/flip
+[submodule "flipscores"]
+	path = flipscores
+	url = https://github.com/livioivil/flipscores
+[submodule "jointest"]
+	path = jointest
+	url = https://github.com/livioivil/jointest
 [submodule "someMTP"]
 	path = someMTP
 	url = https://github.com/cran/someMTP
